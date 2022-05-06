@@ -15,11 +15,17 @@ scale = Vector2( 2.11719, 2.13477 )
 texture = ExtResource( 1 )
 
 [node name="Label" type="Label" parent="."]
-margin_left = 119.0
+margin_left = 16.0
 margin_top = 9.0
-margin_right = 198.0
+margin_right = 289.0
 margin_bottom = 57.0
-text = "How To Play"
+text = "How To Play
+
+Left arrow Key = Left
+Right Arrow Key = Right
+C = Cast Line
+Space = jump"
+align = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
